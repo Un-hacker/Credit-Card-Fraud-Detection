@@ -30,22 +30,22 @@ Libraries:
 
 ⚙️ Steps in the Project
 
-1.Data Preprocessing
-  Handled missing values
-  Normalized transaction features
-2.Handling Class Imbalance
-  Used SMOTE (Synthetic Minority Oversampling Technique) to balance the dataset.
-3.Model Training
-  Logistic Regression
-  Random Forest Classifier
-4.Model Evaluation
-  Confusion Matrix
-  Precision, Recall, F1-score
-  Feature importance visualization
+1.Data Preprocessing<br/>
+  Handled missing values<br/>
+  Normalized transaction features<br/>
+2.Handling Class Imbalance<br/>
+  Used SMOTE (Synthetic Minority Oversampling Technique) to balance the dataset.<br/>
+3.Model Training<br/>
+  Logistic Regression<br/>
+  Random Forest Classifier<br/>
+4.Model Evaluation<br/>
+  Confusion Matrix<br/>
+  Precision, Recall, F1-score<br/>
+  Feature importance visualization<br/>
 
 📊 Results
 
--Best performing model: Random Forest Classifier
--Achieved high recall, meaning fewer fraudulent transactions go undetected.
--Logistic Regression performed decently but was outperformed by Random Forest.
+-Best performing model: Random Forest Classifier<br/>
+-Achieved high recall, meaning fewer fraudulent transactions go undetected.<br/>
+-Logistic Regression performed decently but was outperformed by Random Forest.<br/>
 
