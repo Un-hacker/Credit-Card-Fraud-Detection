@@ -14,7 +14,7 @@ We use the Credit Card Fraud dataset, preprocess and normalize the data, handle 
 
 📂 Dataset
 
-The dataset used is the Kaggle Credit Card Fraud Detection Dataset, which contains:<br/>
+The dataset used is the Kaggle Credit Card Fraud Detection (https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) Dataset, which contains:<br/>
 -Transactions made by European cardholders in September 2013.<br/>
 -284,807 transactions in total.<br/>
 -Only 492 frauds (0.172%), making it highly imbalanced.<br/>
